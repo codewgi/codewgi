@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/567MvDg/banner-2.png)]
+![MasterHead](https://i.ibb.co/567MvDg/banner-2.png)
 <h1 align="center">Hi 👋, I'm CodeWithGI</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
